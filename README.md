@@ -138,5 +138,3 @@ Official website: [fxfunds.com](https://fxfunds.com/)
 ## License
 
 MIT — FXFunds.
-
-The FXFunds name and logo are trademarks of their owner and are not covered by this license.
