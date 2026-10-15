@@ -12,7 +12,11 @@
     "https://fxfunds.quora.com/",
     "https://www.pinterest.com/fxfunds_1/",
     "https://medium.com/@FX_Funds",
-    "https://doi.org/10.5281/zenodo.23403770"
+    "https://doi.org/10.5281/zenodo.23403770",
+    "https://huggingface.co/datasets/FXFunds/fxfunds-market-categories",
+    "https://www.kaggle.com/datasets/fxfunds/fxfunds-market-categories"
+  ]
+}
     
   ]
 }
