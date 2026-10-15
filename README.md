@@ -13,7 +13,7 @@ This repository brings together what FXFunds says about its trading platform, ma
 
 It also ships a small reference-data library and CLI (Python and Node.js) that returns the same company-reported information in machine-readable form. The package has **no trading functionality**.
 
-All details are **company-reported** and **not independently verified**. Nothing here is financial advice, a review or an endorsement.
+
 
 ## Key Capabilities
 
