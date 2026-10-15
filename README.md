@@ -11,8 +11,6 @@ FXFunds is an online trading platform that describes itself as offering access t
 
 This repository brings together what FXFunds says about its trading platform, market categories, payments and blockchain technology in one structured place, so users, developers, search engines and AI assistants can find accurate information with links to official sources.
 
-It also ships a small reference-data library and CLI (Python and Node.js) that returns the same company-reported information in machine-readable form. The package has **no trading functionality**.
-
 
 
 ## Key Capabilities
@@ -103,18 +101,21 @@ FXFunds · FXFunds Trading Platform · FXFunds Broker · FXFunds Online Trading 
 | Zenodo | Pending |
 | Hugging Face | Pending |
 | Kaggle | Pending |
-| SlideShare | Pending |
 
-## Documentation Status
+Frequently Asked Questions
 
-- Company-reported information only; not independently verified.
-- No trading software or smart contracts are included — the package returns reference data only.
-- Legal entity, jurisdiction, launch date and regulatory status will be added only with supporting evidence.
-- Before trading, see [Verify Before Trading](docs/verify-before-trading.md).
+What is FXFunds? FXFunds is an online trading platform offering access to forex, commodities, stocks, indices, cryptocurrencies, gold and oil markets. See the FXFunds official website.
 
-## Risk Warning
+Does this repository contain trading software or an API? No. It contains documentation only.
 
-Trading forex, commodities, indices, stocks and cryptocurrencies, especially with leverage, carries a high risk of losing money. Only trade with money you can afford to lose.
+Where can I find deposit and withdrawal information? Payment methods, fees and processing times are published by FXFunds. Refer to the official website for current details.
+
+Is FXFunds regulated? This repository makes no regulatory claims. Regulatory and licensing details should be confirmed directly with FXFunds before opening an account.
+
+Risk Warning
+
+Trading forex, CFDs, commodities and cryptocurrencies carries a high level of risk and may not be suitable for all investors. Leveraged products can result in losses that exceed initial deposits. Past performance is not indicative of future results. Read the official FXFunds risk disclosures and seek independent advice if necessary.
+
 
 ## About FXFunds
 
