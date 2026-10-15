@@ -1,7 +1,7 @@
-name: Weekly link check
+name: Link check (alternate days)
 on:
   schedule:
-    - cron: "17 3 * * 1"
+    - cron: "17 3 */2 * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -20,7 +20,9 @@ jobs:
               https://fxfunds.com/ \
               https://github.com/fxfunds/fxfunds-trading-platform \
               https://fxfunds-trading-platform.readthedocs.io \
-              https://fxfunds.github.io/fxfunds-trading-platform/; do
+              https://fxfunds.github.io/fxfunds-trading-platform/ \
+              https://huggingface.co/datasets/FXFunds/fxfunds-market-categories \
+              https://www.kaggle.com/datasets/fxfunds/fxfunds-market-categories; do
               code=$(curl -s -o /dev/null -w "%{http_code}" -L --max-time 20 "$url" || echo "000")
               echo "$code  $url"
             done
