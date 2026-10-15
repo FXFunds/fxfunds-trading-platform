@@ -102,8 +102,8 @@ FXFunds · FXFunds Trading Platform · FXFunds Broker · FXFunds Online Trading 
 | Pinterest | https://www.pinterest.com/fxfunds_1/ |
 | Medium | https://medium.com/@FX_Funds |
 | Zenodo | https://zenodo.org/records/23403770 |
-| Hugging Face | Pending |
-| Kaggle | Pending |
+| Hugging Face | https://huggingface.co/datasets/FXFunds/fxfunds-market-categories |
+| Kaggle | https://www.kaggle.com/datasets/fxfunds/fxfunds-market-categories |
 
 ## Frequently Asked Questions
 
