@@ -21,8 +21,3 @@ Legal entity, jurisdiction and licence details have not yet been supplied for pu
 **Is FXFunds legit?**
 This documentation does not rate or endorse FXFunds. Use the [Verify Before Trading](verify-before-trading.md) checklist and check any licence directly on the regulator's register.
 
-**Where can I read FXFunds reviews?**
-On independent review sites and forums. This repository does not publish or collect reviews.
-
-**Is this repository maintained by FXFunds?**
-This is the official FXFunds public-information repository. Content is company-reported and marked accordingly.
