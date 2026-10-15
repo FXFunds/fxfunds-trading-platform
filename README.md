@@ -3,7 +3,7 @@
 
 [![npm](https://img.shields.io/badge/npm-v1.0.0-C9A227?style=flat-square&labelColor=111111)](https://www.npmjs.com/package/@fxfunds/fxfunds-trading-platform)
 [![PyPI](https://img.shields.io/badge/pypi-v1.0.0-C9A227?style=flat-square&labelColor=111111)](https://pypi.org/project/fxfunds-trading-platform)
-[![DOI](https://img.shields.io/badge/DOI-pending-8A8A8A?style=flat-square&labelColor=111111)](#links)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23403770-C9A227?style=flat-square&labelColor=111111)](https://doi.org/10.5281/zenodo.23403770)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-C9A227?style=flat-square&labelColor=111111)](https://fxfunds-trading-platform.readthedocs.io)
 
 FXFunds is an online trading platform that describes itself as offering access to forex, commodities, stocks, indices, cryptocurrencies, gold, and oil markets, with stablecoin-based transactions and Web3 security technology. This repository is the official public-information overview of the FXFunds trading platform and its market categories.
@@ -101,7 +101,7 @@ FXFunds · FXFunds Trading Platform · FXFunds Broker · FXFunds Online Trading 
 | Quora | https://fxfunds.quora.com/ |
 | Pinterest | https://www.pinterest.com/fxfunds_1/ |
 | Medium | https://medium.com/@FX_Funds |
-| Zenodo | Pending |
+| Zenodo | https://zenodo.org/records/23403770 |
 | Hugging Face | Pending |
 | Kaggle | Pending |
 
