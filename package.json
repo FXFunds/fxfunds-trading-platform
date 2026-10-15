@@ -1,0 +1,30 @@
+{
+  "name": "@fxfunds/fxfunds-trading-platform",
+  "version": "1.0.0",
+  "description": "FXFunds Trading Platform reference data — company-reported profile, market categories, payment status and verify-before-trading checklist. Not independently verified; no trading functionality.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "fxfunds-info": "dist/index.js"
+  },
+  "files": ["dist", "README.md", "LICENSE"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["fxfunds", "fxfunds-trading-platform", "trading-platform", "forex", "stablecoin", "company-information"],
+  "homepage": "https://fxfunds.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxfunds/fxfunds-trading-platform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fxfunds/fxfunds-trading-platform/issues"
+  },
+  "author": "FXFunds",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}

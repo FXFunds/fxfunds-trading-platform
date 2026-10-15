@@ -1,0 +1,20 @@
+site_name: FXFunds Documentation
+site_url: https://fxfunds-trading-platform.readthedocs.io/
+site_description: Company-reported public information about FXFunds, an online multi-asset trading platform.
+repo_url: https://github.com/fxfunds/fxfunds-trading-platform
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: amber
+markdown_extensions:
+  - admonition
+  - tables
+nav:
+  - Home: index.md
+  - Trading Platform: platform.md
+  - Payments & Stablecoins: payments.md
+  - Blockchain Technology: blockchain.md
+  - Verify Before Trading: verify-before-trading.md
+  - FAQ: faq.md

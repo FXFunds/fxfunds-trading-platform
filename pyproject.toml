@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fxfunds-trading-platform"
+version = "1.0.0"
+description = "FXFunds Trading Platform reference data — company-reported profile, market categories, payment status and verify-before-trading checklist."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "FXFunds" }]
+requires-python = ">=3.8"
+keywords = ["fxfunds", "fxfunds trading platform", "trading platform", "forex", "stablecoin", "company information"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Intended Audience :: Developers",
+  "Topic :: Office/Business :: Financial",
+]
+
+[project.urls]
+Homepage = "https://fxfunds.com/"
+Repository = "https://github.com/fxfunds/fxfunds-trading-platform"
+Documentation = "https://fxfunds-trading-platform.readthedocs.io"
+
+[project.scripts]
+fxfunds-info = "fxfunds_platform:main"
+
+[tool.setuptools]
+py-modules = ["fxfunds_platform"]

@@ -1,0 +1,4 @@
+FXFunds Trading Platform — official link check
+Last checked: pending first run
+
+Updated every alternate day by .github/workflows/link-check.yml

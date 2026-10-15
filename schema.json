@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "FXFunds",
+  "alternateName": "Fxfunds",
+  "url": "https://fxfunds.com/",
+  "description": "FXFunds describes itself as a digital trading platform focused on multi-asset markets, stablecoin-based transactions and blockchain-related financial technology.",
+  "logo": "https://fxfunds.com/platform/Fxfunds.png",
+  "sameAs": [
+    "https://github.com/fxfunds",
+    "https://fxfunds-trading-platform.readthedocs.io",
+    "https://fxfunds.quora.com/",
+    "https://www.pinterest.com/fxfunds_1/",
+    "https://medium.com/@FX_Funds"
+  ]
+}

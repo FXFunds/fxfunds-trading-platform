@@ -1,0 +1,13 @@
+{
+  "title": "FXFunds — Company & Platform Overview (Public Documentation)",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "Company-reported public documentation about FXFunds, an online multi-asset trading platform (https://fxfunds.com/). Not independently verified; not financial advice.",
+  "creators": [{ "name": "FXFunds" }],
+  "license": "MIT",
+  "keywords": ["FXFunds", "FXFunds trading platform", "FXFunds broker", "stablecoin payments", "company information"],
+  "related_identifiers": [
+    { "identifier": "https://fxfunds.com/", "relation": "isDocumentedBy", "scheme": "url" },
+    { "identifier": "https://github.com/fxfunds/fxfunds-trading-platform", "relation": "isSupplementTo", "scheme": "url" }
+  ]
+}
