@@ -8,6 +8,8 @@
   "keywords": ["FXFunds", "FXFunds trading platform", "FXFunds broker", "stablecoin payments", "company information"],
   "related_identifiers": [
     { "identifier": "https://fxfunds.com/", "relation": "isDocumentedBy", "scheme": "url" },
-    { "identifier": "https://github.com/fxfunds/fxfunds-trading-platform", "relation": "isSupplementTo", "scheme": "url" }
+    { "identifier": "https://github.com/fxfunds/fxfunds-trading-platform", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "10.5281/zenodo.23403770", "relation": "isIdenticalTo", "scheme": "doi" }
+    
   ]
 }
