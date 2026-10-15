@@ -1,0 +1,8 @@
+market,label,coverage,data_status,instrument_type,leverage,fees,source
+forex,Forex,Currency pair trading,company-reported,pending,pending,pending,https://fxfunds.com/
+commodities,Commodities,Commodity markets including gold and oil,company-reported,pending,pending,pending,https://fxfunds.com/
+stocks,Stocks,Equity markets,company-reported,pending,pending,pending,https://fxfunds.com/
+indices,Indices,Stock index markets,company-reported,pending,pending,pending,https://fxfunds.com/
+crypto,Cryptocurrencies,Digital asset markets,company-reported,pending,pending,pending,https://fxfunds.com/
+gold,Gold,Headline market on the website,company-reported,pending,pending,pending,https://fxfunds.com/
+oil,Oil,Headline market on the website,company-reported,pending,pending,pending,https://fxfunds.com/
