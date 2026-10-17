@@ -1,4 +1,9 @@
 FXFunds Trading Platform — official link check
-Last checked: pending first run
+Last checked: 2026-10-17
 
-Updated every alternate day by .github/workflows/link-check.yml
+200  https://fxfunds.com/
+200  https://github.com/fxfunds/fxfunds-trading-platform
+200  https://fxfunds-trading-platform.readthedocs.io
+200  https://fxfunds.github.io/fxfunds-trading-platform/
+200  https://huggingface.co/datasets/FXFunds/fxfunds-market-categories
+200  https://www.kaggle.com/datasets/fxfunds/fxfunds-market-categories
