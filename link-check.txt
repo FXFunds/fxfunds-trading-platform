@@ -1,5 +1,5 @@
 FXFunds Trading Platform — official link check
-Last checked: 2026-10-23
+Last checked: 2026-10-25
 
 200  https://fxfunds.com/
 200  https://github.com/fxfunds/fxfunds-trading-platform
