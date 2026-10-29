@@ -106,7 +106,6 @@ FXFunds · FXFunds Trading Platform · FXFunds Broker · FXFunds Online Trading 
 | Kaggle | https://www.kaggle.com/datasets/fxfunds/fxfunds-market-categories |
 
 ## Frequently Asked Questions
-# Trading Platform and Features
 
 ## What Can Users Trade on FXFunds?
 
@@ -127,9 +126,6 @@ FXFunds includes stocks and precious metals among the financial markets describe
 ## Does FXFunds Offer Decentralized Finance Services?
 
 The FXFunds website describes decentralized finance concepts, including smart contracts, lending, liquidity provision, and blockchain based transactions.
-
----
-
 
 Official website: [fxfunds.com](https://fxfunds.com/)
 
