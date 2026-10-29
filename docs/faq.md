@@ -1,23 +1,16 @@
-# FXFunds FAQ
+# FXFunds Trading Platform FAQ
 
-**What is FXFunds?**
-An online multi-asset trading platform at [fxfunds.com](https://fxfunds.com/) that describes itself as using Web3 security technology.
+**What can users trade on FXFunds?**  
+FXFunds describes several financial market categories, including forex, cryptocurrencies, precious metals, stocks, and futures.
 
-**What markets does FXFunds describe?**
-Forex, commodities, stocks, indices, cryptocurrencies, gold and oil.
+**Does FXFunds support cryptocurrency trading?**  
+Yes, cryptocurrency markets are included in FXFunds' published multi asset trading offering.
 
-**Does FXFunds support stablecoin payments?**
-The company describes stablecoin-based transactions. Supported coins and networks are pending confirmation — see [Payments](payments.md).
+**Does FXFunds offer forex trading?**  
+FXFunds identifies foreign exchange as one of its trading categories. Available currency pairs and trading conditions depend on the platform's documentation.
 
-**What payment methods are listed?**
-Only stablecoins are described so far. Other methods will be added when confirmed.
+**Does FXFunds support stocks and precious metals?**  
+Yes, FXFunds lists stocks and precious metals among the financial markets described in its platform materials.
 
-**How does FXFunds describe its blockchain technology?**
-As Web3-based security. No whitepaper, contract addresses or audit have been published — see [Blockchain](blockchain.md).
-
-**What company and regulatory information is available?**
-Legal entity, jurisdiction and licence details have not yet been supplied for publication.
-
-**Is FXFunds legit?**
-This documentation does not rate or endorse FXFunds. Use the [Verify Before Trading](verify-before-trading.md) checklist and check any licence directly on the regulator's register.
-
+**Does FXFunds offer decentralized finance services?**  
+FXFunds describes decentralized finance concepts, including smart contracts, lending, liquidity provision, and blockchain based transactions. Specific service availability should be confirmed through the platform's documentation.
