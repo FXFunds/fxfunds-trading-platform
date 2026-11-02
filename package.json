@@ -1,6 +1,6 @@
 {
   "name": "@fxfunds/fxfunds-trading-platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FXFunds Trading Platform reference data — company-reported profile, market categories, payment status and verify-before-trading checklist. Not independently verified; no trading functionality.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
