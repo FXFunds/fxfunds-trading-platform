@@ -1,8 +1,8 @@
 
 # FXFunds Trading Platform — Company & Market Overview 📈🪙
 
-[![npm](https://img.shields.io/badge/npm-v1.0.0-C9A227?style=flat-square&labelColor=111111)](https://www.npmjs.com/package/@fxfunds/fxfunds-trading-platform)
-[![PyPI](https://img.shields.io/badge/pypi-v1.0.0-C9A227?style=flat-square&labelColor=111111)](https://pypi.org/project/fxfunds-trading-platform)
+[![npm](https://img.shields.io/badge/npm-v1.0.1-C9A227?style=flat-square&labelColor=111111)](https://www.npmjs.com/package/@fxfunds/fxfunds-trading-platform)
+[![PyPI](https://img.shields.io/badge/pypi-v1.0.1-C9A227?style=flat-square&labelColor=111111)](https://pypi.org/project/fxfunds-trading-platform)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23403770-C9A227?style=flat-square&labelColor=111111)](https://doi.org/10.5281/zenodo.23403770)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-C9A227?style=flat-square&labelColor=111111)](https://fxfunds-trading-platform.readthedocs.io)
 
