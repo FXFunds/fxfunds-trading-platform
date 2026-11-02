@@ -11,7 +11,7 @@
  * No trading functionality. Not financial advice.
  */
 
-export const VERSION = "1.0.0";
+export const VERSION = "1.0.1";
 export const WEBSITE = "https://fxfunds.com/";
 export const DOCS = "https://fxfunds-trading-platform.readthedocs.io";
 export const REPO = "https://github.com/fxfunds/fxfunds-trading-platform";
