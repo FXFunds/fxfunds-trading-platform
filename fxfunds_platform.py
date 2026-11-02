@@ -12,7 +12,7 @@ This package contains no trading functionality and is not financial advice.
 import json
 import sys
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 WEBSITE = "https://fxfunds.com/"
 DOCS = "https://fxfunds-trading-platform.readthedocs.io"
