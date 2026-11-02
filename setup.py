@@ -5,7 +5,7 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="fxfunds-trading-platform",
-    version="1.0.0",
+    version="1.0.1",
     description="FXFunds Trading Platform reference data — company-reported profile, market categories, payment status and verify-before-trading checklist.",
     long_description=long_description,
     long_description_content_type="text/markdown",
